@@ -1,5 +1,5 @@
 {
-  "homepage": "http://gadhiyadharmik.github.io/hashtag-admin-panel/",
+  "homepage": "http://SamarDasPoddarDeveloper.github.io/AttendenceAdmin/",
   "name": "material-dashboard-2-react",
   "version": "2.2.0",
   "private": true,
@@ -24,7 +24,6 @@
     "chart.js": "4.3.0",
     "chroma-js": "2.4.2",
     "formik": "^2.4.5",
-    "gh-pages": "^6.1.0",
     "prop-types": "15.8.1",
     "react": "18.2.0",
     "react-chartjs-2": "5.2.0",
@@ -76,6 +75,7 @@
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
+    "gh-pages": "^6.1.1",
     "prettier": "2.8.8"
   },
   "overrides": {
